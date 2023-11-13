@@ -2264,7 +2264,7 @@ button:hover,
 
 #promo-wrapper {
 	position: relative;
-	background-image: url("images/overlay.png"), url("../../images/promo.jpg");
+	background-image: url("images/overlay.png"), url("../../images/linnn.png");
 	background-size: 192px 192px, cover;
 	background-position: top left, center center;
 	color: #fff;
@@ -2492,7 +2492,7 @@ button:hover,
 
 /* Promo */
 
-#promo {
+/* #promo {
 	background: rgba(255, 255, 255, 0.05);
 	border: solid 1px rgba(255, 255, 255, 0.25);
 	border-radius: 0.5em;
@@ -2500,7 +2500,7 @@ button:hover,
 	display: inline-block;
 	position: relative;
 	z-index: 1;
-}
+} */
 
 #promo h2 {
 	color: #fff;
